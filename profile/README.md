@@ -2,16 +2,16 @@
 
 Welcome to the **RebelDot Organization** on GitHub!
 
-We’re a team passionate about building impactful digital products and sharing knowledge. This space brings together our documentation, projects, and resources in one place—making it easier for our team and the community to collaborate, learn, and grow.
+This is where we keep our documentation, projects, and shared resources in one place so everything stays organized and easy to find.
 
 ### 🌈 Get Involved
 
-We welcome contributions! Whether it's improving documentation, suggesting ideas, or collaborating on projects, feel free to explore our repositories and join the conversation.
+Feel free to explore the repositories, open issues, or contribute if something catches your interest.
 
 ### 👩‍💻 Resources
 
-You’ll find useful documentation, guidelines, and tools across our repos to help you get started and stay aligned with our work.
+You’ll find documentation, guidelines, and useful materials across our repos.
 
 ---
 
-Let’s build something great together 🚀
+Let’s build together 🚀
